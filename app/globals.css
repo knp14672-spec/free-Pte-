@@ -1,0 +1,6 @@
+:root { --brand: #0ea5a4; --bg:#f7fafc; }
+body { margin:0; font-family:Inter, system-ui, Arial; background:var(--bg); color:#111827; }
+.container { max-width:1100px; margin:0 auto; }
+.card { background:white; padding:20px; border-radius:10px; box-shadow:0 2px 10px rgba(0,0,0,0.06); }
+a { color:var(--brand); text-decoration:none; }
+button { background:var(--brand); color:white; border:none; padding:10px 14px; border-radius:8px; cursor:pointer; }
